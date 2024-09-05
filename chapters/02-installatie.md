@@ -85,6 +85,10 @@ Laten we testen of alles correct werkt:
 ```python
 print("Hello, World! VS Code werkt correct met Python!")
 ```
+<pre><code>
+msg = "Hello, World!"
+print(msg)
+</code></pre>
 
 <codapi-snippet sandbox="python" editor="basic"></codapi-snippet>
 
