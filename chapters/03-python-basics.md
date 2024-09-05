@@ -1,3 +1,8 @@
+---
+layout: default
+title: Python Basics
+---
+
 <pre><code>
 msg = "Hello, World!"
 print(msg)
