@@ -7,6 +7,7 @@ title: Home
 
 Welkom bij de cursus informaticawetenschappen!
 
+
 ## Hoofdstukken
 
 {% for page in site.pages %}

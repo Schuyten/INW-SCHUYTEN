@@ -86,6 +86,8 @@ Laten we testen of alles correct werkt:
 print("Hello, World! VS Code werkt correct met Python!")
 ```
 
+<codapi-snippet sandbox="python" editor="basic"></codapi-snippet>
+
 4. Druk op `Ctrl+F5` of op het driehoekje in de bovenbalk (Run) om het programma uit te voeren.
 
 
